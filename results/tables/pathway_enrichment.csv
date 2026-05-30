@@ -1,0 +1,9 @@
+Pathway,Genes (n),KW p-value,Max delta,Highest in,Lowest in
+Immune Regulation,2,0.0149,0.146,BRCA,LUAD
+Metabolism,2,0.1565,0.184,GBM,COAD
+Tissue Identity TFs,5,0.2941,0.115,BRCA,GBM
+Hematopoiesis,3,0.462,0.075,PRAD,COAD
+Cancer Biomarkers,4,0.5391,0.079,PRAD,COAD
+DNA Damage Response,4,0.7029,0.057,LAML,PRAD
+Wnt Signaling,4,0.7055,0.087,PRAD,LAML
+Cell Cycle Control,2,0.981,0.013,LUAD,COAD
