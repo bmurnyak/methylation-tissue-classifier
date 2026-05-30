@@ -1,0 +1,7 @@
+Cancer type,Top hypermethylated,Hyper delta,Top hypomethylated,Hypo delta,Mean methylation
+GBM,CDH1,0.128,HOXA5,-0.172,0.332
+BRCA,CDX2,0.128,RARB,-0.1,0.347
+COAD,GATA4,0.138,CDX2,-0.184,0.322
+LUAD,CDX2,0.075,NKX2-1,-0.117,0.327
+PRAD,RARB,0.218,PAX6,-0.11,0.352
+LAML,HOXA5,0.315,SHOX2,-0.124,0.342
