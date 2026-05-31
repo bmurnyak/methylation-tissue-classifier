@@ -127,3 +127,20 @@ pip install scikit-learn jinja2
 **Balazs Murnyak, PhD** — Molecular Biologist and Genomics Scientist
 University of Utah
 [LinkedIn](https://www.linkedin.com/in/balazs-murnyak-56a45a100/) | [Google Scholar](https://scholar.google.com/citations?user=dFfVIEAAAAJ)
+
+## Methylation-Expression Anti-correlation
+
+13/24 genes show significant methylation-expression anti-correlation across 6 cancer types, confirming promoter methylation-mediated gene silencing:
+
+| Gene | Spearman ρ | p-value | Interpretation |
+|------|-----------|---------|----------------|
+| CDH1 | -0.698 | <0.001 | Strongest silencing — EMT/epithelial marker |
+| APC | -0.628 | <0.001 | Wnt pathway suppression |
+| PCSK9 | -0.567 | 0.001 | Novel metabolic gene silencing |
+| VIM | -0.556 | 0.001 | Mesenchymal marker |
+| CD274 | -0.445 | 0.014 | Immune checkpoint regulation |
+| GSTP1 | -0.440 | 0.015 | Prostate cancer biomarker |
+| RUNX1 | -0.395 | 0.031 | Hematopoietic regulator |
+| RB1 | -0.376 | 0.041 | Cell cycle checkpoint |
+
+![Anti-correlation](results/plots/meth_expr_anticorrelation.png)
