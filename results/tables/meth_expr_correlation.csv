@@ -1,0 +1,25 @@
+gene,rho,p_value,direction,expected,n
+CDH1,-0.698,0.0,Anti-correlated,Yes,30
+APC,-0.628,0.0002,Anti-correlated,Yes,30
+PCSK9,-0.567,0.0011,Anti-correlated,Yes,30
+VIM,-0.556,0.0014,Anti-correlated,Yes,30
+CD274,-0.445,0.0138,Anti-correlated,Yes,30
+GSTP1,-0.44,0.015,Anti-correlated,Yes,30
+RUNX1,-0.395,0.0306,Anti-correlated,Yes,30
+RB1,-0.376,0.0407,Anti-correlated,Yes,30
+PTEN,-0.357,0.0527,Anti-correlated,Yes,30
+NKX2-1,-0.344,0.0628,Anti-correlated,Yes,30
+PARP1,-0.293,0.1167,Anti-correlated,Yes,30
+CDX2,-0.281,0.1323,Anti-correlated,Yes,30
+TET2,-0.274,0.1424,Anti-correlated,Yes,30
+MGMT,-0.192,0.3094,No correlation,Yes,30
+MLH1,-0.175,0.356,No correlation,Yes,30
+SFRP1,-0.124,0.5141,No correlation,Yes,30
+GATA4,-0.008,0.9672,No correlation,Yes,30
+CDKN2A,0.039,0.8382,No correlation,No,30
+RARB,0.042,0.8272,No correlation,No,30
+PAX6,0.107,0.5749,No correlation,No,30
+HOXA5,0.18,0.3413,No correlation,No,30
+KRAS,0.184,0.3316,No correlation,No,30
+BRCA1,0.36,0.0509,Correlated,No,30
+SHOX2,0.513,0.0038,Correlated,No,30
